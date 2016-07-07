@@ -1,0 +1,2 @@
+defmodule ElixirClApp do
+end
