@@ -1,24 +1,6 @@
-# ElixirClApp
+# ElixirCLApp
 
-**TODO: Add description**
+**Simple command-line application that utilizes Elixir's built-in module, OptionParse, parsing command line options.**
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
-
-  1. Add `elixir_cl_app` to your list of dependencies in `mix.exs`:
-
-    ```elixir
-    def deps do
-      [{:elixir_cl_app, "~> 0.1.0"}]
-    end
-    ```
-
-  2. Ensure `elixir_cl_app` is started before your application:
-
-    ```elixir
-    def application do
-      [applications: [:elixir_cl_app]]
-    end
-    ```
+If you are interested in the step-by-step, please refer to the following tutorial: [Writing a command line application in Elixir](http://asquera.de/blog/2015-04-10/writing-a-commandline-app-in-elixir/)
 
